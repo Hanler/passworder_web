@@ -69,4 +69,4 @@ node_modules/
 .firebaserc
 database.rules.json
 package-lock.json
-dist/
+# dist/ # commented due the auto deploy by workflow
